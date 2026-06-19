@@ -111,3 +111,21 @@ https://ble.ir/UDLbot
 - وب سایت : avasam.ir 
 
 
+
+---
+
+## فایل های دانلود شده
+
+- [watch_v=COUwBF3B6VE](https://github.com/momeel369-bot/UDL-3/tree/main/downloads/watch_v=COUwBF3B6VE)
+
+---
+
+<!-- AVASAM_HELP -->
+
+## 📦 دانلود همه فایل ها یکجا
+
+**[⬇️ دانلود کل مخزن به صورت ZIP](https://github.com/momeel369-bot/UDL-3/archive/refs/heads/main.zip)**
+
+---
+
+طراحی شده توسط [آواسام](https://avasam.ir) 💚
